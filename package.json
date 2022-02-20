@@ -1,0 +1,28 @@
+{
+  "name": "width-splitter",
+  "version": "1.0.1",
+  "description": "dom width splitter",
+  "main": "width-splitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "width",
+    "splitter"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/width-splitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/width-splitter/issues"
+  },
+  "homepage": "https://github.com/adf0001/width-splitter#readme",
+  "dependencies": {
+    "drag-object": "^1.0.1",
+    "ele-tool": "^1.0.2",
+    "to-px-by-offset": "^1.0.1"
+  }
+}
